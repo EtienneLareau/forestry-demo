@@ -22,9 +22,10 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: Good job!
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     name: Home
