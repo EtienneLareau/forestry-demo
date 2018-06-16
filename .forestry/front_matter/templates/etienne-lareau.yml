@@ -1,0 +1,9 @@
+---
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: good_morning
+  label: Good morning
+  description: This is a good morning message
+  default: MornGood
