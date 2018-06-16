@@ -7,3 +7,8 @@ fields:
   label: Good morning
   description: This is a good morning message
   default: MornGood
+- type: boolean
+  name: vsdjbvdvmnab
+  label: vsdjbv
+  description: sdv n
+  default: true
